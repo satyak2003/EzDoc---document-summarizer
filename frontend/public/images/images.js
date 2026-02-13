@@ -1,0 +1,1 @@
+import logoEz from './frontend/src/components/images/logoEz.png'
